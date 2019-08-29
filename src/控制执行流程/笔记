@@ -1,0 +1,10 @@
+### 控制执行流程（本章内容同C中控制执行流程相似，不作过多笔记）
+一、增强版for循环（Foreach语法）
+    int[] a = new int[10];
+    如果要遍历a数组，根据C中for语法应该为：
+        for(int i = 0; i < 10;i++)
+            printf(a[i]);
+    而用增强版for循环的遍历语法：
+        for(int x:a)
+            System.out.print(x);
+二、Java中没有goto语句

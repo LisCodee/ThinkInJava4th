@@ -1,0 +1,122 @@
+课后练习：本章习题未经过编译，所以可能会有不正确的地方。
+1.
+    class Test1Sub{
+        int x;
+        char y;
+    }
+    public class Test1 {
+        public static void main(String[] args) {
+            Test1Sub t = new Test1Sub();
+            System.out.println("x:" + t.x + "\ny:" + t.y);
+        }
+    }
+    /**
+     output:
+     x:0
+     y:
+     */
+2.
+    public class Test2 {
+        public static void main(String[] args) {
+            System.out.println("Hello, World");
+        }
+    }
+3.
+    public class Test3 {
+        public static void main(String[] args) {
+            ATypeName a = new ATypeName();
+            System.out.println(a);
+        }
+    }
+4、5.
+    class DataOnly{
+        int i;
+        double d;
+        boolean b;
+    }
+    public class Test4 {
+        public static void main(String[] args) {
+            DataOnly data = new DataOnly();
+            System.out.println("i:" + data.i + "\nd:" + data.d +"\nb:" + data.b);
+        }
+    }
+6.
+    public class Test6 {
+        static int storage(String s){
+            return s.length()*2;
+        }
+        public static void main(String[] args) {
+            System.out.println(storage("Hello world!"));
+        }
+    }
+7.
+    class StaticTest{
+        static int i = 47;
+    }
+    public class Incrementable {
+        static void increment(){
+            StaticTest.i++;
+        }
+
+        public static void main(String[] args) {
+            Incrementable.increment();
+            System.out.println(StaticTest.i);
+        }
+    }
+8.
+    class Test8Sub{
+        Test8Sub(){
+            i++;
+        }
+        static int i = 0;
+    }
+    public class Test8 {
+        public static void main(String[] args) {
+            Test8Sub a = new Test8Sub();
+            System.out.println(a.i);
+            Test8Sub b = new Test8Sub();
+            System.out.println(b.i);
+        }
+    }
+9.
+    public class Test9 {
+        public static void main(String[] args) {
+            int i = 0;
+            char c = 'a';
+            long l = 1000;
+            short s = 10;
+            byte b = 2;
+            boolean bo = false;
+            Integer I = i;
+            Character C = c;
+            Long L = l;
+            Short S = s;
+            Byte B = b;
+            Boolean Bo = bo;
+        }
+    }
+10.
+    public class Test10 {
+        public static void main(String[] args) {
+            for(String s: args){
+                System.out.println(s);
+            }
+        }
+    }
+11.
+    class AllTheColorsOfTheRainbow{
+        int anIntegerRepresentingColors;
+        void changeTheHueOfTheColor(int newHue){
+            anIntegerRepresentingColors = newHue;
+        }
+    }
+    public class Test11 {
+        public static void main(String[] args) {
+            AllTheColorsOfTheRainbow a = new AllTheColorsOfTheRainbow();
+            a.changeTheHueOfTheColor(3);
+            System.out.println(a.anIntegerRepresentingColors);
+        }
+    }
+
+12及以后.
+    略
