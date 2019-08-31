@@ -14,12 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/初始化与清理/笔记.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="701">
-                <caret line="109" selection-start-line="109" selection-end-line="109" />
+              <first_editor relative-caret-position="397">
+                <caret line="179" column="20" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/初始化与清理/练习.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2387">
+                <caret line="345" column="1" selection-start-line="345" selection-start-column="1" selection-end-line="345" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -27,13 +39,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/初始化与清理/练习.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="397">
-                <caret line="196" selection-start-line="196" selection-end-line="196" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/初始化与清理/practice/Test22.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" selection-start-line="2" selection-end-line="26" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/初始化与清理/practice/Money.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -43,6 +61,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -86,8 +105,18 @@
         <option value="$PROJECT_DIR$/src/初始化与清理/practice/Test10.java" />
         <option value="$PROJECT_DIR$/src/初始化与清理/practice/Test11.java" />
         <option value="$PROJECT_DIR$/src/初始化与清理/practice/Test12.java" />
-        <option value="$PROJECT_DIR$/src/初始化与清理/练习.md" />
+        <option value="$PROJECT_DIR$/src/初始化与清理/practice/Test14.java" />
+        <option value="$PROJECT_DIR$/src/初始化与清理/practice/Test15.java" />
+        <option value="$PROJECT_DIR$/src/初始化与清理/practice/Test16.java" />
+        <option value="$PROJECT_DIR$/src/初始化与清理/practice/Test17.java" />
+        <option value="$PROJECT_DIR$/src/初始化与清理/practice/Test18.java" />
+        <option value="$PROJECT_DIR$/src/初始化与清理/practice/Test19.java" />
+        <option value="$PROJECT_DIR$/src/初始化与清理/practice/Test20.java" />
         <option value="$PROJECT_DIR$/src/初始化与清理/笔记.md" />
+        <option value="$PROJECT_DIR$/src/初始化与清理/practice/Money.java" />
+        <option value="$PROJECT_DIR$/src/初始化与清理/practice/Test21.java" />
+        <option value="$PROJECT_DIR$/src/初始化与清理/practice/Test22.java" />
+        <option value="$PROJECT_DIR$/src/初始化与清理/练习.md" />
       </list>
     </option>
   </component>
@@ -102,7 +131,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,6 +160,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -161,9 +190,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test12">
-    <configuration name="TerminationCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="初始化与清理.practice.TerminationCondition" />
+  <component name="RunManager" selected="Application.Test22">
+    <configuration name="Test18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="初始化与清理.practice.Test18" />
       <module name="ThinkInJava" />
       <extension name="coverage">
         <pattern>
@@ -175,8 +204,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="初始化与清理.practice.Test10" />
+    <configuration name="Test19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="初始化与清理.practice.Test19" />
       <module name="ThinkInJava" />
       <extension name="coverage">
         <pattern>
@@ -188,8 +217,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="初始化与清理.practice.Test11" />
+    <configuration name="Test20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="初始化与清理.practice.Test20" />
       <module name="ThinkInJava" />
       <extension name="coverage">
         <pattern>
@@ -201,8 +230,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="初始化与清理.practice.Test12" />
+    <configuration name="Test21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="初始化与清理.practice.Test21" />
       <module name="ThinkInJava" />
       <extension name="coverage">
         <pattern>
@@ -214,8 +243,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="初始化与清理.practice.Test9" />
+    <configuration name="Test22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="初始化与清理.practice.Test22" />
       <module name="ThinkInJava" />
       <extension name="coverage">
         <pattern>
@@ -229,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test12" />
-        <item itemvalue="Application.Test11" />
-        <item itemvalue="Application.Test10" />
-        <item itemvalue="Application.TerminationCondition" />
-        <item itemvalue="Application.Test9" />
+        <item itemvalue="Application.Test22" />
+        <item itemvalue="Application.Test21" />
+        <item itemvalue="Application.Test20" />
+        <item itemvalue="Application.Test19" />
+        <item itemvalue="Application.Test18" />
       </list>
     </recent_temporary>
   </component>
@@ -254,16 +283,17 @@
       <workItem from="1567153996941" duration="1987000" />
       <workItem from="1567162762838" duration="2724000" />
       <workItem from="1567179354977" duration="3823000" />
+      <workItem from="1567212026353" duration="5915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21742000" />
+    <option name="totallyTimeSpent" value="27657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -594,21 +624,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/初始化与清理/练习.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="397">
-            <caret line="196" selection-start-line="196" selection-end-line="196" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/初始化与清理/practice/Test17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/初始化与清理/practice/Test18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/初始化与清理/practice/Test20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/初始化与清理/practice/Test19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/初始化与清理/practice/Test16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/初始化与清理/practice/Test15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/初始化与清理/practice/Test14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/初始化与清理/practice/Money.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/初始化与清理/practice/Test21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/初始化与清理/笔记.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="701">
-            <caret line="109" selection-start-line="109" selection-end-line="109" />
+          <first_editor relative-caret-position="397">
+            <caret line="179" column="20" selection-start-line="179" selection-start-column="20" selection-end-line="179" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/初始化与清理/practice/Test22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/初始化与清理/练习.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2387">
+            <caret line="345" column="1" selection-start-line="345" selection-start-column="1" selection-end-line="345" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
