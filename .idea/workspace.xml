@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/src/接口/笔记.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="501">
+              <first_editor relative-caret-position="650">
                 <caret line="25" selection-start-line="25" selection-end-line="25" />
               </first_editor>
               <second_editor />
@@ -29,19 +29,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/接口/practice/Test18.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
+            <state relative-caret-position="1040">
               <caret line="52" column="43" selection-end-line="55" />
               <folding>
-                <element signature="e#127#128#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#608#609#0" expanded="true" />
                 <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
                 <element signature="e#831#832#0" expanded="true" />
                 <element signature="e#868#869#0" expanded="true" />
               </folding>
@@ -52,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/接口/example/Factories.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
+            <state relative-caret-position="1118">
               <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
               <folding>
                 <element signature="e#242#243#0" expanded="true" />
@@ -75,12 +67,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/接口/practice/Test16.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="32" column="9" selection-end-line="35" />
+            <state relative-caret-position="639">
+              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/接口/example/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="e#458#459#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,11 +97,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/接口/练习.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="675">
+              <first_editor relative-caret-position="21918">
                 <caret line="843" column="1" selection-start-line="843" selection-start-column="1" selection-end-line="843" selection-end-column="1" />
               </first_editor>
               <second_editor />
@@ -110,14 +112,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/接口/practice/Test19.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="20" column="8" lean-forward="true" selection-end-line="47" />
-              <folding>
-                <element signature="e#549#550#0" expanded="true" />
-                <element signature="e#585#586#0" expanded="true" />
-                <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="520">
+              <caret line="20" column="8" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -173,7 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/复用类/practice/Test8.java" />
         <option value="$PROJECT_DIR$/src/复用类/example/SpaceShip.java" />
         <option value="$PROJECT_DIR$/src/复用类/practice/Test11.java" />
         <option value="$PROJECT_DIR$/src/复用类/practice/Stem.java" />
@@ -218,12 +213,13 @@
         <option value="$PROJECT_DIR$/src/接口/practice/Test12.java" />
         <option value="$PROJECT_DIR$/src/接口/practice/Test14.java" />
         <option value="$PROJECT_DIR$/src/接口/practice/Test15.java" />
-        <option value="$PROJECT_DIR$/src/接口/practice/Test16.java" />
         <option value="$PROJECT_DIR$/src/接口/笔记.md" />
         <option value="$PROJECT_DIR$/src/接口/example/Factories.java" />
         <option value="$PROJECT_DIR$/src/接口/practice/Test18.java" />
         <option value="$PROJECT_DIR$/src/接口/practice/Test19.java" />
         <option value="$PROJECT_DIR$/src/接口/练习.md" />
+        <option value="$PROJECT_DIR$/src/接口/practice/Test16.java" />
+        <option value="$PROJECT_DIR$/src/接口/example/Test.java" />
       </list>
     </option>
   </component>
@@ -239,7 +235,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,38 +247,11 @@
               <item name="ThinkInJava4th" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ThinkInJava4th" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkInJava4th" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="接口" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ThinkInJava4th" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkInJava4th" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="接口" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ThinkInJava4th" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkInJava4th" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="接口" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="Factories.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ThinkInJava4th" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkInJava4th" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="接口" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,7 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test19">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Factories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="接口.example.Factories" />
       <module name="ThinkInJava" />
@@ -329,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="接口.practice.Test15" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="接口.example.Test" />
       <module name="ThinkInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="接口.practice.*" />
+          <option name="PATTERN" value="接口.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,11 +351,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test16" />
         <item itemvalue="Application.Test19" />
         <item itemvalue="Application.Test18" />
         <item itemvalue="Application.Factories" />
-        <item itemvalue="Application.Test16" />
-        <item itemvalue="Application.Test15" />
       </list>
     </recent_temporary>
   </component>
@@ -415,16 +383,19 @@
       <workItem from="1567499547848" duration="13233000" />
       <workItem from="1567603320161" duration="2316000" />
       <workItem from="1567821350740" duration="3696000" />
+      <workItem from="1567872075051" duration="4000" />
+      <workItem from="1568031208486" duration="2503000" />
+      <workItem from="1568034434944" duration="1211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74810000" />
+    <option name="totallyTimeSpent" value="78528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2867804" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29637527" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -459,27 +430,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/复用类/example/Detergent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-468">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/复用类/practice/Test11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1024,10 +974,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/接口/笔记.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="650">
+            <caret line="25" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/接口/practice/Test18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="52" column="43" selection-end-line="55" />
+          <folding>
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/接口/example/Factories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1118">
+          <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/接口/practice/Test14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="71" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/接口/练习.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="21918">
+            <caret line="843" column="1" selection-start-line="843" selection-start-column="1" selection-end-line="843" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/接口/practice/Test19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="8" selection-end-line="47" />
         </state>
       </provider>
     </entry>
@@ -1064,88 +1075,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/接口/practice/Test16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="32" column="9" selection-end-line="35" />
+        <state relative-caret-position="639">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/接口/example/Factories.java">
+    <entry file="file://$PROJECT_DIR$/src/接口/example/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="5" />
           <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#935#936#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/接口/笔记.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="501">
-            <caret line="25" selection-start-line="25" selection-end-line="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/接口/practice/Test18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="52" column="43" selection-end-line="55" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#831#832#0" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/接口/practice/Test19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="20" column="8" lean-forward="true" selection-end-line="47" />
-          <folding>
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/接口/练习.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="675">
-            <caret line="843" column="1" selection-start-line="843" selection-start-column="1" selection-end-line="843" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
